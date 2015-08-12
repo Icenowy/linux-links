@@ -1,0 +1,35 @@
+各大发行版下载地址列表
+(尽量使用国内镜像，USTC优先)
+（没有写位数的默认64位）
+AOSC oses: 
+	（不带系统Live镜像）http://mirrors.ustc.edu.cn/anthon/os3-releases/01_Beta/00_LiveKit/aosc-livekit_beta2-obsidian_amd64_20150304.iso
+	（系统本体）http://mirrors.ustc.edu.cn/anthon/aosc-os/gnome/aosc-os_gnome_cyanflame_dpkg_20150708_en-US.tar.xz（建议内存>2G）
+	（系统本体）http://mirrors.ustc.edu.cn/anthon/aosc-os/xfce/aosc-os_xfce_cyanflame_dpkg_20150709_en-US.tar.xz（建议内存<2G）
+Archlinux:
+	（不带系统Live镜像）http://mirrors.ustc.edu.cn/archlinux/iso/latest/archlinux-2015.08.01-dual.iso
+	（系统本体）http://mirrors.ustc.edu.cn/archlinux/iso/latest/archlinux-bootstrap-2015.08.01-i686.tar.gz（32位）
+	（系统本体）http://mirrors.ustc.edu.cn/archlinux/iso/latest/archlinux-bootstrap-2015.08.01-x86_64.tar.gz（64位）
+CentOS:（由于版权问题本列表不提供RHEL，CentOS能完美替代RHEL（除了没有客服））
+	（安装盘）http://mirrors.ustc.edu.cn/centos/7.1.1503/isos/x86_64/CentOS-7-x86_64-DVD-1503-01.iso（4GB预警）
+	（安装盘）http://mirrors.ustc.edu.cn/centos/7.1.1503/isos/x86_64/CentOS-7-x86_64-LiveCD-1503.iso（可能只有文字界面）
+Debian：
+	（安装盘）http://mirrors.ustc.edu.cn/debian-cd/8.1.0/i386/iso-cd/debian-8.1.0-i386-xfce-CD-1.iso（32位）
+	（安装盘）http://mirrors.ustc.edu.cn/debian-cd/8.1.0/amd64/iso-cd/debian-8.1.0-amd64-CD-1.iso（64位）
+	（Live安装盘）http://mirrors.ustc.edu.cn/debian-cd/8.1.0-live/i386/iso-hybrid/debian-live-8.1.0-i386-xfce-desktop.iso（32位）
+	（Live安装盘）http://mirrors.ustc.edu.cn/debian-cd/8.1.0-live/amd64/iso-hybrid/debian-live-8.1.0-amd64-xfce-desktop.iso（64位）
+Deepin：
+	（安装盘）http://mirrors.ustc.edu.cn/deepin-cd/releases/2014.3/deepin_2014.3_i386.iso（32位）
+	（安装盘）http://mirrors.ustc.edu.cn/deepin-cd/releases/2014.3/deepin_2014.3_amd64.iso（64位）
+Fedora：
+	（安装盘）http://mirrors.ustc.edu.cn/fedora/linux/releases/22/Live/i386/Fedora-Live-MATE_Compiz-i686-22-3.iso（32位）
+	（安装盘）http://mirrors.ustc.edu.cn/fedora/linux/releases/22/Live/x86_64/Fedora-Live-MATE_Compiz-x86_64-22-3.iso（64位）
+Gentoo：
+	（不带系统Live镜像）http://mirrors.ustc.edu.cn/gentoo/releases/x86/autobuilds/current-install-x86-minimal/install-x86-minimal-20150811.iso（32位）
+	（系统本体）http://mirrors.ustc.edu.cn/gentoo/releases/x86/autobuilds/current-stage3-i686/stage3-i686-20150728.tar.bz2（32位）
+	（不带系统Live镜像）http://mirrors.ustc.edu.cn/gentoo/releases/amd64/autobuilds/current-stage3-amd64/install-amd64-minimal-20150806.iso（64位）
+	（系统本体）http://mirrors.ustc.edu.cn/gentoo/releases/amd64/autobuilds/current-stage3-amd64/stage3-amd64-20150806.tar.bz2（64位）
+OpenSUSE：（介于版本号可能引起不适，暂不提供下载）
+Slackware：
+	（安装盘）http://mirrors.ustc.edu.cn/slackware/slackware-14.1-iso/slackware-14.1-install-dvd.iso（32位）
+Ubuntu大家族：
+	留坑待填
